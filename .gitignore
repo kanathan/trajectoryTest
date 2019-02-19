@@ -1,0 +1,6 @@
+bin
+Output
+*.py
+*.vcxproj*
+*.bat
+*.txt
